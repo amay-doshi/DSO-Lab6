@@ -1,4 +1,4 @@
-# dso-lab-6
+# DevSecOps-Lab6
 This repository is for dso lab 6.
 
 ## Steps Involved:
